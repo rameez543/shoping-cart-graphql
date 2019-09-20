@@ -1,0 +1,9 @@
+html,body{
+  background-color: #f6f9fc
+}
+.active{
+  font-style: italic
+}
+a,a:link,a:visited{
+  text-decoration: none
+}

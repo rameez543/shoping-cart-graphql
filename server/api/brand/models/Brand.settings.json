@@ -1,0 +1,24 @@
+{
+  "connection": "default",
+  "collectionName": "Brand",
+  "info": {
+    "name": "brand",
+    "description": ""
+  },
+  "options": {
+    "timestamps": true
+  },
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "images": {
+      "model": "file",
+      "via": "related",
+      "plugin": "upload"
+    }
+  }
+}

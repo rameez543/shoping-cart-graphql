@@ -1,0 +1,34 @@
+{
+  "name": "shopy-react",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "gestalt": "^0.79.1",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.5",
+    "react-spinners": "^0.4.5",
+    "react-stripe-elements": "^2.0.1",
+    "strapi-sdk-javascript": "^0.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "rameez shahsad",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rameez543/shoping-cart-graphql.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rameez543/shoping-cart-graphql/issues"
+  },
+  "homepage": "https://github.com/rameez543/shoping-cart-graphql#readme"
+}
